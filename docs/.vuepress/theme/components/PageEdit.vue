@@ -40,7 +40,7 @@ export default {
       const {
         repo,
         docsDir = '',
-        docsBranch = 'master',
+        docsBranch = '3.x',
         docsRepo = repo
       } = this.$site.themeConfig
 
